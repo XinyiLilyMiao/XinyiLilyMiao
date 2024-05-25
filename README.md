@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xinyi Miao</h1>
 <h3 align="center">A passionate Data Analyst From UK</h3>
 
-- 🔭 I’m currently working on [Apex Bank](https://lookerstudio.google.com/u/0/reporting/2754bd24-5861-49ca-a15d-f9b6de1315ca/page/LE7bD/edit)
+- 🔭 I’m currently working on [Prism-Elite](https://www.canva.com/design/DAGFTp8oGYo/dUv26Yzo5pyqJeOSjKyJNA/view?utm_content=DAGFTp8oGYo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - 🌱 I’m currently learning **Big Query, Python and Machine learning**
 
