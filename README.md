@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **What is the best way to do a feline analysis**
 
-- 📫 How to reach me **miaobaihe2333@gmail.com**
+- 📫 How to reach me **xinyi.miao.work@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
